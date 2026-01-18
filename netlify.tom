@@ -1,0 +1,25 @@
+[build.environment]
+  HUGO_VERSION = "0.154.4"
+  NODE_VERSION = "24.12.0"
+  DART_SASS_VERSION = "1.97.2"
+  GO_VERSION = "1.25.5"
+  TZ = "Asia/Jakarta"
+
+[build]
+  publish = "public"
+  command = "hugo --gc --minify -b ${URL}"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+
+  [plugins.inputs]
+    debug = true
