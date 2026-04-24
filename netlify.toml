@@ -7,13 +7,13 @@
 
 [build]
   publish = "public"
-  command = "hugo --gc --minify -b ${URL}"
+  command = "hugo --gc --minify -e production"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
+  command = "hugo --gc --minify"
 
 [context.deploy-preview]
   command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
