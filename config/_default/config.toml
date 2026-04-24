@@ -1,5 +1,4 @@
 languageCode = "en-us"
-
 title = "👦️ Mas Shiro"
 baseurl = "https://okutasan.web.id"
 
@@ -16,3 +15,6 @@ disqusShortname = "okutasan-github-io"
 
 [pagination]
 pagerSize = 5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
