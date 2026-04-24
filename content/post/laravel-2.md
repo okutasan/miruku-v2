@@ -89,7 +89,7 @@ $ php artisan serve
 ```
 lalu buka browser dan ketikan url ```http://localhost:8000``` atau ```http://127.0.0.1:8000```   
 Maka tampil kayak gini di browsernya
-![xampp](/img/laravel/laravel.PNG)
+![xampp](/img/laravel/laravel.png)
 
 
  Semoga catatan belajar saya ini bermanfaat.   

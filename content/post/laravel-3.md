@@ -132,7 +132,7 @@ laravel new blog
 ```
 **blog** disini silahkan ganti dengan nama project/aplikasi kamu.
 
-3. Jika sudah silahkan buka browser arahkan ke alamat [http://localhost/blog/public](http://localhost/blog/public). Jika berhasil maka tampilan akan seperti ini ![laravel](/img/laravel/Laravel.png)
+3. Jika sudah silahkan buka browser arahkan ke alamat [http://localhost/blog/public](http://localhost/blog/public). Jika berhasil maka tampilan akan seperti ini ![laravel](/img/laravel/laravel.png)
 
  Semoga catatan belajar saya ini bermanfaat.   
 <img src="/img/docker/cute.jpg" width="70%">

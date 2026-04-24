@@ -55,7 +55,7 @@ Setelah composer terinstall sekarang saatnya kita menginstall Laravel Frameworkn
 ![PHPArtisan](/img/laravel/phpartisan.png)
  - Buka XAMPP Control Panel dan aktifkan servernya.
 ![xampp](/img/laravel/xampp.PNG)
- - cek di browser dengan mengetikan di url browser ```http://localhost/fulan/public/```. Jika tampilan seperti berikut berarti laravel siap untuk dioprek dan digunakan. ![xampp](/img/laravel/laravel.PNG)
+ - cek di browser dengan mengetikan di url browser ```http://localhost/fulan/public/```. Jika tampilan seperti berikut berarti laravel siap untuk dioprek dan digunakan. ![xampp](/img/laravel/laravel.png)
 
 Untuk setup pada Linux bisa dibaca pada post yang telah saya buat. [Setup Laravel Linux](https://okutasan.github.io/post/laravel-2/)
 Oke terimakasih semoga bermanfaat.
