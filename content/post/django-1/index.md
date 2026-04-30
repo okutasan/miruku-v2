@@ -1,5 +1,6 @@
 +++
 title= "Belajar Django 1"
+description = "Catatan belajar Django dari nol: install Python, setup Git, sampai bikin project pertama dan lihat roketnya terbang di browser. Cocok buat pemula!"
 subtitle= "Persiapan dan Instalasi"
 date= 2018-02-20T16:24:44+07:00
 categories= [

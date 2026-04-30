@@ -1,5 +1,6 @@
 +++
 title= "Plymouth Module Missing"
+description = "Muncul warning plymouth module missing pas update-initramfs? Ini catatan cara fixnya yang simpel banget, cukup install satu package dan problem solved!"
 date= 2018-10-07T20:13:06+07:00
 
 subtitle= "Sudahlah Aku Pasrah"

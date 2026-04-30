@@ -1,5 +1,6 @@
 +++
 title = "Relax 1"
+description = "Sekali-kali istirahat dari tutorial. Post santai tentang lagu Terpesona dari Isyana Sarasvati — MV-nya cute banget dan bikin jatuh cinta deh. Hehe!"
 subtitle = "My Love Isyana ❤"
 date = 2018-03-17T23:09:48+07:00
 #draft: true

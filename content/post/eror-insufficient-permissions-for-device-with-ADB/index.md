@@ -1,5 +1,6 @@
 +++
 title= "Fix Error: Insufficient Permissions for Device With ADB"
+description = "Dapet error ADB insufficient permissions waktu test app Android di Linux? Ini cara fixnya — dari cek USB debugging sampai restart adb pakai sudo."
 date= 2018-03-29T01:36:25+07:00
 subtitle= "Fix Eror Run APK pada Device"
 categories= [

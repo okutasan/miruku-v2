@@ -1,5 +1,6 @@
 +++
 title= "Laradock"
+description = "Capek install Laravel manual? Coba Laradock! Setup environment laravel berbasis Docker, semua tools sudah tersedia dan sistem tetap bersih. Ini catatannya."
 date= 2018-11-19T04:15:43+07:00
 draft= false
 subtitle= "Setup laravel tanpa lara"

@@ -1,5 +1,6 @@
 +++
 title= "Belajar Laravel 1"
+description = "Belajar Laravel dari nol di Windows — dari install XAMPP, Composer, sampai jalanin project pertama. Catatan step by step buat yang baru kenal PHP framework."
 date= 2018-02-17T02:12:34+07:00
 subtitle= "Persiapan dan Instalasi"
 #draft: true

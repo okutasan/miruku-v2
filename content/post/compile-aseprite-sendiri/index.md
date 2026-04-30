@@ -1,5 +1,6 @@
 +++
 title = "Compile Aseprite Sendiri Pakai Docker"
+description = "Cara compile Aseprite sendiri dari source code pakai Docker biar sistem tetap bersih. Ada Dockerfile-nya juga, tinggal clone dan build deh!"
 date = 2026-04-29T14:25:00+07:00
 subtitle = "Bikin Portable Binary Tanpa Mengotori Sistem"
 categories = ["Linux", "Docker"]
