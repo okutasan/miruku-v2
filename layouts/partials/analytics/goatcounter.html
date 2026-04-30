@@ -1,0 +1,25 @@
+{{/*
+  Partial  : analytics/goatcounter.html
+  Tujuan   : Memuat script GoatCounter hanya di environment production.
+  Dipanggil: layouts/partials/analytics.html
+
+  Syarat script dirender (semua harus terpenuhi):
+    1. hugo.IsProduction = true  → build dengan flag -e production
+    2. .Site.Params.analytics.goatcounter.enabled = true (di params.toml)
+    3. .Site.Params.analytics.goatcounter.endpoint tidak kosong
+
+  Konfigurasi di config/_default/params.toml:
+    [analytics.goatcounter]
+    enabled  = true
+    endpoint = "https://your-site.goatcounter.com/count"
+*/}}
+
+{{- $gc := .Site.Params.analytics.goatcounter -}}
+
+{{- if and hugo.IsProduction $gc.enabled $gc.endpoint -}}
+<script
+  data-goatcounter="{{ $gc.endpoint }}"
+  async
+  src="//gc.zgo.at/count.js">
+</script>
+{{- end -}}
