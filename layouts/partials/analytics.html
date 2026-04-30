@@ -1,0 +1,18 @@
+{{/*
+  Partial  : analytics.html
+  Tujuan   : Dispatcher untuk semua provider analytics.
+             Tambahkan provider baru di sini sebagai baris partial baru.
+             Tidak perlu menyentuh baseof.html lagi untuk menambah provider.
+  Dipanggil: layouts/_default/baseof.html
+
+  Provider yang tersedia:
+    - goatcounter : Privacy-first analytics (aktif)
+    - plausible   : (contoh struktur, belum aktif)
+    - umami       : (contoh struktur, belum aktif)
+*/}}
+
+{{- partial "analytics/goatcounter.html" . -}}
+
+{{/* Tambahkan provider baru di bawah ini saat dibutuhkan: */}}
+{{/* {{- partial "analytics/plausible.html" . -}} */}}
+{{/* {{- partial "analytics/umami.html" . -}} */}}

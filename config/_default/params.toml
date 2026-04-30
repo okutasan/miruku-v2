@@ -149,3 +149,8 @@ clientSecret = ""
 [comments.cusdis]
 host = ""
 id = ""
+
+## Analytics
+[analytics.goatcounter]
+enabled  = true
+endpoint = "https://okutasan.goatcounter.com/count"
