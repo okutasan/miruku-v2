@@ -11,3 +11,4 @@ node_modules/
 # Persona AI & Tools
 system_prompt.md
 update_prompt.py
+artifact/

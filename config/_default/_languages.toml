@@ -1,6 +1,6 @@
 # Rename this file to languages.toml to enable multilingual support
 [en]
 languageName = "English"
-languagedirection = "ltr"
+direction = "ltr"
 title = "okutasan.web.id"
 weight = 1
