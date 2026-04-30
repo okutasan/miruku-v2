@@ -1,5 +1,6 @@
 +++
 title= "Eror Mount Ntfs Di Ubuntu"
+description = "Partisi NTFS Windows gak bisa dibuka di Ubuntu? Biasanya karena Windows belum di-shutdown bener. Fix-nya gampang, cukup pakai ntfsfix di terminal!"
 date= 2018-03-18T01:54:33+07:00
 draft= false
 categories= [

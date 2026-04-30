@@ -1,5 +1,6 @@
 +++
 title= "Setting Path Windows"
+description = "Tutorial setting $PATH di Windows biar aplikasi kayak Composer bisa diakses dari mana aja. Step by step dari buka System Properties sampai add path baru."
 date= 2018-02-19T00:09:16+07:00
 categories= [
   "Windows",

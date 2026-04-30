@@ -1,5 +1,6 @@
 +++
 title = "Catatan Cli"
+description = "Catatan belajar perintah CLI Linux dari mkdir, cd, ls, mv sampai rm. Lengkap sama contoh penggunaannya buat yang baru mulai kenalan sama terminal."
 date = 2019-02-10T16:19:19+07:00
 #draft: false
 subtitle = "Yo mung kanggo awakmu"

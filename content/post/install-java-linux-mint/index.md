@@ -1,5 +1,6 @@
 +++
 title= "Install Java Linux Mint"
+description = "Cara install Java JDK di Linux Mint pakai PPA Webupd8 Team. Tinggal tambah repo, apt update, install, dan cek versinya pakai javac. Gampang banget!"
 date= 2018-03-29T00:24:51+07:00
 categories= [
   "Linux",
