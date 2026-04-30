@@ -1,5 +1,6 @@
 ---
 title: "Laravelday"
+description: "Catatan kilat soal Laravel — apa itu framework PHP, basic workflow MVC-nya, dan link-link penting buat mulai belajar. Masih draft, tapi siap buat dikembangin!"
 date: 2018-10-13T13:45:53+07:00
 draft: true
 subtitle: ""

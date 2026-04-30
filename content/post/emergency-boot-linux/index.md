@@ -1,5 +1,6 @@
 +++
 title= "Emergency Boot Linux"
+description = "Pernah kena emergency boot di Linux? Ini catatan cara ngatasinnya pakai LiveUSB dan perintah fsck. Gak perlu panik, bisa kok balik lagi ke sistem!"
 date= 2018-04-17T17:43:30+07:00
 draft= false
 subtitle= "Yes, you can !"

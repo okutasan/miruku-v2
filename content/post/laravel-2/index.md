@@ -1,5 +1,6 @@
 +++
 title= "Belajar Laravel 1.1"
+description = "Setup Laravel di Linux dari install Apache, PHP 7.2, Composer, sampai jalanin server pakai php artisan. Catatan buat yang pengen pindah dari Windows ke Linux!"
 date= 2018-10-12T22:39:05+07:00
 
 subtitle= "MO DAIJOBU, NAZETTE... WATASHIGA KITA!"

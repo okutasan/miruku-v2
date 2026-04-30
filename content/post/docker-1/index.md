@@ -1,5 +1,6 @@
 +++
 title= "Belajar Docker"
+description = "Catatan install Docker di Ubuntu Server step by step dari tambah repo resmi, GPG key, sampai cek hello-world. Buat kamu yang baru mulai belajar Docker."
 subtitle= "Instalasi Docker Ubuntu Server"
 date= 2018-03-15T05:15:01+07:00
 categories=[
